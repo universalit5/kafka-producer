@@ -1,0 +1,4 @@
+com/gigtech/spring/kafka/api/User.class
+com/gigtech/spring/kafka/api/ProducerController.class
+com/gigtech/spring/kafka/api/config/KafkaPublisherConfig.class
+com/gigtech/spring/kafka/api/KafkaPublisherApplication.class
